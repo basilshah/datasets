@@ -1,8 +1,10 @@
 item {
-  id: 1
-  name: 'Plastic'
+    name: "Paper",
+    id: 1,
+    display_name: "Paper"
 }
 item {
-  id: 2
-  name: 'Paper'
+    name: "Plastic",
+    id: 2,
+    display_name: "Plastic"
 }
